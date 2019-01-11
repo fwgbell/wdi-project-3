@@ -51,6 +51,18 @@ Your app must:
 
 ![Home page](https://i.imgur.com/znrZfl6.png)
 
+### The film index page, used to find a film on the site
+
+![Index page](https://i.imgur.com/M2PMxNh.jpg)
+
+### This is the show page for a film, here you can read reviews or writet one of your own
+
+![Show page](https://i.imgur.com/ffUWUdQ.png)
+
+### This is the news feed where you can scroll through the most recent reviews written by the people you follow
+
+![Feed page](https://i.imgur.com/GiKTuVr.png)
+
 ___
 
 ## Approach Taken
