@@ -55,7 +55,7 @@ Your app must:
 
 ![Index page](https://i.imgur.com/M2PMxNh.jpg)
 
-### This is the show page for a film, here you can read reviews or writet one of your own
+### This is the show page for a film, here you can read reviews or write one of your own
 
 ![Show page](https://i.imgur.com/ffUWUdQ.png)
 
@@ -68,6 +68,10 @@ ___
 ## Approach Taken
 
 To help keep track of who was working on what and what else needed to be done we used a Trello board for this project. We would break down each section of the project in to tasks and divide them up between us based on our perceived strengths and weaknesses.
+
+### Our Trello board
+
+![Trello board](https://i.imgur.com/pNVfTvx.png)
 
 #### Featured piece of code 1
 
