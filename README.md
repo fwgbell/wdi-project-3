@@ -32,8 +32,8 @@ Your app must:
 * SCSS
 * JavaScript(ECMAScript 6)
 * Node.js
-* Angular.js
-* bulma
+* AngularJS
+* Bulma
 * MongoDB
 * Express
 * Mongoose
@@ -43,6 +43,13 @@ Your app must:
 * Heroku
 * Trello
 
+---
+
+## Screenshot Walk-through
+
+### Home page
+
+![Home page](https://i.imgur.com/znrZfl6.png)
 
 ___
 
