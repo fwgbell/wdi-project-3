@@ -125,7 +125,17 @@ $scope.like = function(review){
   }
 };
 ```
+___
 
+## Wins and Blockers
+
+I think our biggest win was how well we all worked together as a team. Being able to help cover each others weaknesses and take on board each others advice meant that this project really is a true collaboration of all of us.
+
+In terms of elements that I built, the biggest win was probably the news feed. I'm pleased with how it displays the reviews of only the people that you're following and I think it's one of the features that really makes this project stand out from just another movie database.
+
+My biggest blocker was testing. I had only done this a little bit before, so it was hard to know if the test was written incorrectly, or if the code was wrong when the tests broke. It was also hard to know exactly what to test for, particularly on the authentication side.
+
+___
 ## Future Features
 
 With more time we wanted to add mobile responsiveness to the design to make the sight more appealing and usable on mobile devices. We also planned to consume more API's namely google maps to make a cinema locator and the online movie database to pull ratings and information about the films from other sources.
